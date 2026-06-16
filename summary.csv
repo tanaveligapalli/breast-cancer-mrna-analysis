@@ -1,0 +1,11 @@
+comparison,total_DEGs,upregulated,downregulated
+Basal_vs_Her2,2970,524,429
+Basal_vs_LumA,3939,1081,838
+Basal_vs_LumB,3665,791,843
+Basal_vs_Normal,3379,1131,487
+Her2_vs_LumA,3674,645,471
+Her2_vs_LumB,3358,415,443
+Her2_vs_Normal,3065,879,310
+LumA_vs_LumB,3394,110,463
+LumA_vs_Normal,3190,463,159
+LumB_vs_Normal,3418,1027,319
